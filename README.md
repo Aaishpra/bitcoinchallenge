@@ -1,1 +1,1 @@
-# bitcoinchallenge
+# BitcoinChallenge
